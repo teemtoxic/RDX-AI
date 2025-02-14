@@ -1,0 +1,98 @@
+[
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Anuj! I'm RDX AI, not Jarvis, by the way. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"
+    },
+    {
+        "role": "user",
+        "content": "Fleet."
+    },
+    {
+        "role": "assistant",
+        "content": "You said \"Fleet\". Are you referring to a fleet of vehicles, a naval fleet, or something else?"
+    },
+    {
+        "role": "user",
+        "content": "Fleet."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you might be thinking of Fleet, a UK-based telecommunications company that provides mobile network services. Is that correct?"
+    },
+    {
+        "role": "user",
+        "content": "How to set a product?"
+    },
+    {
+        "role": "assistant",
+        "content": "You want to know how to set up a product. Could you please provide more context or clarify what kind of product you're referring to? Are you talking about a physical product, a digital product, or a service?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "Hello road."
+    },
+    {
+        "role": "assistant",
+        "content": "You said \"Hello road\". Are you thinking about a specific road or perhaps planning a road trip?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "It has to be launched."
+    },
+    {
+        "role": "assistant",
+        "content": "You're saying that something needs to be launched. Could you be more specific about what that something is? A product, a project, or an event perhaps?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "Download."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to download something. Could you please specify what you want to download, such as a file, an app, or some software?"
+    }
+]
